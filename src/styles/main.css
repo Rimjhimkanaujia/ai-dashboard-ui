@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* THEMES */
+.app.dark {
+  background-color: #0f172a;
+  color: white;
+}
+
+.app.light {
+  background-color: #f8fafc;
+  color: #020617;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* SIDEBAR */
+.sidebar {
+  width: 260px;
+  padding: 20px;
+}
+
+/* BUTTON */
+button {
+  cursor: pointer;
+}
